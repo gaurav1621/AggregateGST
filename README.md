@@ -28,3 +28,5 @@ Steps to follow to generate aggregate GST sheet:
    
    ![image](https://user-images.githubusercontent.com/17623783/130359082-e34d20bc-834e-4690-af4c-cc751c250d3a.png)
    
+
+Executable can also be created using Pyinstaller library of Python.
